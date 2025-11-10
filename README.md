@@ -8,34 +8,34 @@ Notes:
 
 <!-- Header / Hero -->
 <div align="center">
-  
+
+  <!-- Neon header badges -->
   <img src="https://img.shields.io/badge/Linux-CLI%20Lifestyle-00ffaa?style=for-the-badge" alt="Linux CLI Lifestyle" />
   <img src="https://img.shields.io/badge/Keep%20Learning-Always-00ffae?style=for-the-badge" alt="Keep Learning" />
-  
+
   <h1>~$ whoami → Ray Trifeno Surualing</h1>
-  <p><i>Informatics Engineering student @ FTI UKSW · building, learning, exploring</i></p>
-  
-  <!-- Subtle terminal divider -->
-  <pre style="background:transparent; border:none; color:#00ffae; font-weight:600;">
-┌──(ray㉿github)-[~]
-└─$ echo "Code · Design · Security · Curiosity"
+  <p><i>Informatics Engineering student @ FTI UKSW — building, learning, exploring</i></p>
+
+  <!-- Terminal banner -->
+  <pre style="background:transparent; border:none; color:#00ffae; font-weight:600; line-height:1.2; font-size:14px;">
+┌──────────────────────────────────────────────────────────────┐
+│ code  ·  design  ·  security  ·  curiosity                   │
+└──────────────────────────────────────────────────────────────┘
   </pre>
 </div>
 
 ---
 
-<!-- About -->
 ### 👋 About Me
 I enjoy building web apps, learning ethical security, and trying UI/UX ideas.  
 My focus is simple: **write clean code**, **learn every day**, and **ship useful things**.
 
-- I like Linux and the terminal workflow.
-- I care about the mix of **engineering** × **design** × **security**.
+- I like Linux and terminal workflow.
+- I care about the mix of **engineering × design × security**.
 - Style: small but tidy, simple but sharp.
 
 ---
 
-<!-- Skills -->
 ### 🛠️ Skills & Tools
 
 **Frontend**
@@ -47,8 +47,11 @@ My focus is simple: **write clean code**, **learn every day**, and **ship useful
 ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-0ea5e9?style=flat-square&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-000000?style=flat-square&logo=framer&logoColor=white)
-![Anime.js](https://img.shields.io/badge/Anime.js-181717?style=flat-square)
+
+**Motion / Animations** *(no wrong logos)*
+
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-222222?style=flat-square)
+![Anime.js](https://img.shields.io/badge/Anime.js-222222?style=flat-square)
 
 **Backend**
 
@@ -75,13 +78,14 @@ My focus is simple: **write clean code**, **learn every day**, and **ship useful
 **Design / Workflow**
 
 ![Figma](https://img.shields.io/badge/Figma-1abcfe?style=flat-square&logo=figma&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-000000?style=flat-square&logo=framer&logoColor=white)
+![Framer (Design Tool)](https://img.shields.io/badge/Framer-000000?style=flat-square&logo=framer&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)
 
+> <!-- Add or remove tools as you grow -->
+
 ---
 
-<!-- Projects -->
 ### 🚀 Projects
 
 - **📰 Blog** — *Laravel + Bootstrap + Filament* — **Completed**  
@@ -100,7 +104,6 @@ My focus is simple: **write clean code**, **learn every day**, and **ship useful
 
 ---
 
-<!-- Stats -->
 ### 📈 GitHub Stats
 <div align="center">
 
@@ -113,7 +116,6 @@ My focus is simple: **write clean code**, **learn every day**, and **ship useful
 
 ---
 
-<!-- Connect -->
 ### 🌐 Connect
 [![Website](https://img.shields.io/badge/Website-raysurualing.me-00ffae?style=for-the-badge)](https://raysurualing.me)
 [![Instagram](https://img.shields.io/badge/@ray.trifeno-FF2E74?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ray.trifeno/)
@@ -122,11 +124,9 @@ My focus is simple: **write clean code**, **learn every day**, and **ship useful
 
 <!-- Footer -->
 <div align="center">
-  
   <pre style="background:transparent; border:none; color:#00ffaa; font-weight:600;">
 ┌──(ray㉿github)-[~/profile]
 └─$ sudo apt-get update && sudo apt-get create
   </pre>
-  
   <sub>“Small steps, sharp focus, consistent shipping.”</sub>
 </div>
