@@ -19,7 +19,7 @@ Notes:
   <!-- Terminal banner -->
   <pre style="background:transparent; border:none; color:#00ffae; font-weight:600; line-height:1.2; font-size:14px;">
 ┌──────────────────────────────────────────────────────────────┐
-│ code  ·  design  ·  security  ·  curiosity                   │
+│               code  ·  design  ·  security                   │
 └──────────────────────────────────────────────────────────────┘
   </pre>
 </div>
@@ -48,7 +48,7 @@ My focus is simple: **write clean code**, **learn every day**, and **ship useful
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-0ea5e9?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**Motion / Animations** *(no wrong logos)*
+**Motion / Animations** 
 
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-222222?style=flat-square)
 ![Anime.js](https://img.shields.io/badge/Anime.js-222222?style=flat-square)
